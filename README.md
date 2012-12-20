@@ -10,10 +10,10 @@ The TelAPI SMS Subscription Starter Kit is a Ruby on Rails application that expe
 <p>
 3) Configure your TelAPI number's SMS Request URL to point to the following:
 <p>
-http://yourserversdomain.com/sms/index.xml
+http://yourserversdomain.com/sms/index
 <p>
 3) Clone this repo
-<pre><code>$ git clone 
+<pre><code>$ git clone git@github.com:dougiebuckets/TelAPI-SMS-Subscription-Starter-Kit.git
 </code></pre>
 <p>
 4) Open the SMS controller in app/controllers
